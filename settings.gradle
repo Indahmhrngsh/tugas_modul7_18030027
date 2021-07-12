@@ -1,0 +1,2 @@
+rootProject.name = "Prak1Andro_Day7"
+include ':app'
